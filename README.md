@@ -2,7 +2,8 @@
  Script de Python que nos permite guardar y recuperar imágenes de una base de datos MySQL
 
  - Instalar MySQL en la terminal de linux
-sudo apt update__
-sudo apt install mysql-server
-- Instalar el conector de Python para MySQL
-- 
+ sudo apt update
+ sudo apt install mysql-server
+- Instalar el conector de MySQL para python
+
+pip install mysql-connector-python
